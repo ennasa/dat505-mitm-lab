@@ -7,3 +7,7 @@ ARP spoofing, Traffic interception, and DNS spoofing demonstration
 - packet_sniffer.py - Traffic interception
 - dns_spoof.py - DNS spoofing attack
 - fake_server.py - Fake web server
+- capture.pcap -
+- evidence/ - folder for screenshots and exported pcaps
+- reqirements.txt - python dependencies (only scapy in this project=
+- readme.md 

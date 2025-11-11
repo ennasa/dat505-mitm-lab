@@ -1,0 +1,9 @@
+{
+	"spoof_domains": {
+		"google.com": "10.10.10.10",
+		"facebook.com": "10.10.10.10",
+		"uis.no": "10.10.10.10"
+	},
+	"mode": "whitelist",
+	"forward_queries": true
+}
